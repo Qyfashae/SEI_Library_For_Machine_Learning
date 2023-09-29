@@ -1,0 +1,2 @@
+URL-1 == "https://insights.sei.cmu.edu/library/":
+FTP-1 == "ftp://ftp.sei.cmu.edu/pub/" 
